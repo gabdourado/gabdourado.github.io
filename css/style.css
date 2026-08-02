@@ -1,0 +1,31 @@
+body {
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+p {
+    text-align: justify;
+}
+
+img {
+    max-width: 100%;
+}
+
+.linguagem {
+    display: flex;
+    gap: 20px;
+    min-width: 0;
+}
+
+.detalhes {
+    display: flex;
+    gap: 20px;
+    margin-top: 30px;
+    min-width: 0;
+}
+
+.detalhes img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
