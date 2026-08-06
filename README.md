@@ -10,6 +10,6 @@
 - [ ] 8. Imagens Responsivas: uso das tags `<picture>` e `<source>`
 - [x] 9. Configurar (e compreender) o uso da tag `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - [ ] 10. Demais tags comuns no HTML: `<img />` (com `width`/`height`), `<a>`, `<h1>` a `<h6>`, `<p>`, `<br>`, `<table>`, `<ul>`/`<li>`, `<div>`
-- [ ] 11. Inputs específicos no formulário: `type="email"`, `type="tel"` (com `pattern`), `type="date"`, `type="number"`, `type="range"`, `<input type="radio">`, `<input type="checkbox">`
+- [x] 11. Inputs específicos no formulário: `type="email"`, `type="tel"` (com `pattern`), `type="date"`, `type="number"`, `type="range"`, `<input type="radio">`, `<input type="checkbox">`
 - [ ] 12. Uso da tag `<video>` para exibir um vídeo na página
 - [ ] 13. Atributos HTML: `accesskey`, `contenteditable`, `download`, `loading`, `alt`, `aria-label`

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>Avalie o meu site!</h1>
+    
+    <form>
+    <p>Email:</p>
+    <input type="email" id="email" name="email", placeholder="user@email.com">
+    <button type="submit">Enviar</button>
+    
+    <p>Telefone:</p>
+    <input type="tel" id="telefone" name="telefone" 
+       pattern="\(?\d{2}\)?\s\d{4,5}-?\d{4}" 
+       placeholder="(85) 91234-5678">
+    <button type="submit">Enviar</button>
+
+    <p>Data de Nascimento:</p>
+    <input type="date" id="nascimento" name="nascimento">
+    <button type="submit">Enviar</button>
+
+    <p>Sexo:</p>
+    <input type="radio" id="masc" name="sexo" value="masculino">
+    <label for="masc">Masculino</label>
+    <input type="radio" id="fem" name="sexo" value="feminino">
+    <label for="fem">Feminino</label>
+
+    <p>Peso (kg):</p>
+    <input type="number" id="pessoas" name="pessoas" min="0" max="500", placeholder="90">
+    <button type="submit">Enviar</button>
+
+    <p>Nota para o site:</p>
+    <input type="range" id="idade" name="idade" min="0" max="100" value="25">
+    <button type="submit">Enviar</button>
+    
+    <h6>Você aceita os termos do meu site?</h6>
+    <input type="checkbox" id="termos" name="termos">
+    <label for="termos">Aceito os termos e blá blá blá</label>
+
+</form>
+
+</body>
+</html>
