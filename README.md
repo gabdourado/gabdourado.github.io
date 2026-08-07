@@ -1,11 +1,11 @@
 # Checklist — Atividade 1 de Desenvolvimento Web
 
-- [ ] 1. Estrutura e Semântica: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`
-- [ ] 2. Tags de Metadados: `<meta name="viewport">`, `<meta name="description">`, `<link rel="icon">`
+- [x] 1. Estrutura e Semântica: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`
+- [x] 2. Tags de Metadados: `<meta name="viewport">`, `<meta name="description">`, `<link rel="icon">`
 - [ ] 3. Tags de Mídia: `<picture>`, `<source>`, `<img />`, `<iframe>`, `<video>`, `<track>`
 - [ ] 4. Tags para conteúdo interativo sem CSS: `<details>`, `<summary>`, `<dialog>`
 - [ ] 5. Alterar o favicon (a imagem exibida no canto à esquerda do título da página)
-- [ ] 6. Uso de elementos para formatação textual: `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<del>`, `<ins>`, `<sub>`, `<sup>`
+- [x] 6. Uso de elementos para formatação textual: `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<del>`, `<ins>`, `<sub>`, `<sup>`
 - [ ] 7. Uso da tag `<details>` para organizar as informações na página inicial
 - [ ] 8. Imagens Responsivas: uso das tags `<picture>` e `<source>`
 - [x] 9. Configurar (e compreender) o uso da tag `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
