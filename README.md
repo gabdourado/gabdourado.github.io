@@ -24,7 +24,7 @@ Site desenvolvido para a disciplina de Desenvolvimento Web, apresentando 10 ling
 | 10 | Demais tags comuns: `<img />` (com `width`/`height`), `<a>`, `<h1>`–`<h6>`, `<p>`, `<br>`, `<table>`, `<ul>`/`<li>`, `<div>` | ✅ | `index.html`, `about.html` |
 | 11 | Inputs específicos no formulário: `email`, `tel` (com `pattern`), `date`, `number`, `range`, `radio`, `checkbox` | ✅ | `contact.html` |
 | 12 | `<video>` para exibir vídeo na página | ⬜ | — |
-| 13 | Atributos HTML: `accesskey`, `contenteditable`, `download`, `loading`, `alt`, `aria-label` | ⬜ | — |
+| 13 | Atributos HTML: `accesskey`, `contenteditable`, `download`, `loading`, `alt`, `aria-label` | ✅ | — |
  
 ## Diário de Desenvolvimento (DevLog)
 
