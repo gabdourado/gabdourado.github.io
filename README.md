@@ -9,23 +9,22 @@ Site desenvolvido para a disciplina de Desenvolvimento Web, apresentando 10 ling
 **Link do site publicado:** [gabdourado.github.io]
 
 ## Checklist dos Recursos HTML Implementados
- 
 | # | Recurso | Status | Arquivo(s) |
 |---|---------|--------|------------|
 | 1 | Estrutura e Semântica: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>` | ✅ | `index.html`, `about.html` |
 | 2 | Tags de Metadados: `<meta name="viewport">`, `<meta name="description">`, `<link rel="icon">` | ✅ | `index.html` |
 | 3 | Tags de Mídia: `<picture>`, `<source>`, `<img />`, `<iframe>`, `<video>`, `<track>` | ⬜ | — |
-| 4 | Conteúdo interativo sem CSS: `<details>`, `<summary>`, `<dialog>` | ⬜ | — |
-| 5 | Favicon alterado | ✅ | `index.html`, `about.html` |
+| 4 | Conteúdo interativo sem CSS: `<details>`, `<summary>`, `<dialog>` | ✅ | `about.html` |
+| 5 | Favicon alterado | ✅ | `index.html`, `about.html`, `contact.html` |
 | 6 | Formatação textual: `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<del>`, `<ins>`, `<sub>`, `<sup>` | ✅ | `index.html`, `about.html` |
-| 7 | `<details>` para organizar informações na página inicial | ⬜ | — |
+| 7 | `<details>` para organizar informações na página inicial | ✅ | — |
 | 8 | Imagens Responsivas com `<picture>` e `<source>` | ⬜ | — |
 | 9 | `<meta name="viewport" content="width=device-width, initial-scale=1.0">` | ✅ | `index.html`, `about.html`, `contact.html` |
 | 10 | Demais tags comuns: `<img />` (com `width`/`height`), `<a>`, `<h1>`–`<h6>`, `<p>`, `<br>`, `<table>`, `<ul>`/`<li>`, `<div>` | ✅ | `index.html`, `about.html` |
 | 11 | Inputs específicos no formulário: `email`, `tel` (com `pattern`), `date`, `number`, `range`, `radio`, `checkbox` | ✅ | `contact.html` |
 | 12 | `<video>` para exibir vídeo na página | ⬜ | — |
-| 13 | Atributos HTML: `accesskey`, `contenteditable`, `download`, `loading`, `alt`, `aria-label` | ✅ | — |
- 
+| 13 | Atributos HTML: `accesskey`, `contenteditable`, `download`, `loading`, `alt`, `aria-label` | ✅ | `index.html`, `about.html` |
+
 ## Diário de Desenvolvimento (DevLog)
 
 ### Dia 1
