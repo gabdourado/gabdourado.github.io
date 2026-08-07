@@ -11,6 +11,11 @@ img {
     max-width: 100%;
 }
 
+nav {
+    display: flex;
+    gap: 20px;
+}
+
 .linguagem {
     display: flex;
     gap: 20px;
